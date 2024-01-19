@@ -1,0 +1,13 @@
+2023-12-11 11:35:17.912 +00:00 [INF] Now listening on: https://localhost:7251
+2023-12-11 11:35:17.984 +00:00 [INF] Now listening on: http://localhost:5222
+2023-12-11 11:35:17.993 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-11 11:35:17.994 +00:00 [INF] Hosting environment: Development
+2023-12-11 11:35:17.994 +00:00 [INF] Content root path: C:\weather_App\Weather_App\Weather_Service\
+2023-12-11 11:35:19.292 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7251/swagger/index.html - -
+2023-12-11 11:35:20.138 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7251/swagger/index.html - - - 200 - text/html;charset=utf-8 851.9904ms
+2023-12-11 11:35:20.223 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - -
+2023-12-11 11:35:20.227 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7251/_framework/aspnetcore-browser-refresh.js - - - 200 12362 application/javascript;+charset=utf-8 4.4290ms
+2023-12-11 11:35:20.270 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7251/_vs/browserLink - -
+2023-12-11 11:35:20.492 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7251/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 221.7747ms
+2023-12-11 11:35:25.604 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7251/swagger/v1/swagger.json - -
+2023-12-11 11:35:25.751 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7251/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 147.0012ms

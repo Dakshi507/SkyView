@@ -1,0 +1,260 @@
+2023-12-19 12:21:03.684 +00:00 [INF] Registering with Consul
+2023-12-19 12:21:11.718 +00:00 [INF] Now listening on: https://localhost:7070
+2023-12-19 12:21:11.719 +00:00 [INF] Now listening on: http://localhost:5178
+2023-12-19 12:21:11.719 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-19 12:21:11.720 +00:00 [INF] Hosting environment: Development
+2023-12-19 12:21:11.720 +00:00 [INF] Content root path: C:\weather_App\Weather_App\User_Service\
+2023-12-19 12:21:14.759 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - -
+2023-12-19 12:21:15.434 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - - - 200 - text/html;charset=utf-8 682.1810ms
+2023-12-19 12:21:20.886 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - -
+2023-12-19 12:21:20.891 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 3.8409ms
+2023-12-19 12:21:20.949 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - -
+2023-12-19 12:21:21.029 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 79.6569ms
+2023-12-19 12:21:22.553 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - -
+2023-12-19 12:21:23.000 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 447.0969ms
+2023-12-19 12:23:10.512 +00:00 [INF] Registering with Consul
+2023-12-19 12:23:11.903 +00:00 [INF] Now listening on: https://localhost:7070
+2023-12-19 12:23:11.904 +00:00 [INF] Now listening on: http://localhost:5178
+2023-12-19 12:23:11.904 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-19 12:23:11.905 +00:00 [INF] Hosting environment: Development
+2023-12-19 12:23:11.906 +00:00 [INF] Content root path: C:\weather_App\Weather_App\User_Service\
+2023-12-19 12:23:13.424 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - -
+2023-12-19 12:23:13.884 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - - - 200 - text/html;charset=utf-8 466.6780ms
+2023-12-19 12:23:19.717 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - -
+2023-12-19 12:23:19.756 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 38.5058ms
+2023-12-19 12:23:19.770 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - -
+2023-12-19 12:23:19.772 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 2.2252ms
+2023-12-19 12:23:20.978 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - -
+2023-12-19 12:23:21.159 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 181.0492ms
+2023-12-19 12:24:59.685 +00:00 [INF] Registering with Consul
+2023-12-19 12:25:00.968 +00:00 [INF] Now listening on: https://localhost:7070
+2023-12-19 12:25:00.969 +00:00 [INF] Now listening on: http://localhost:5178
+2023-12-19 12:25:00.970 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-19 12:25:00.970 +00:00 [INF] Hosting environment: Development
+2023-12-19 12:25:00.971 +00:00 [INF] Content root path: C:\weather_App\Weather_App\User_Service\
+2023-12-19 12:25:02.878 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - -
+2023-12-19 12:25:03.249 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - - - 200 - text/html;charset=utf-8 377.4532ms
+2023-12-19 12:25:03.372 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - -
+2023-12-19 12:25:03.411 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 39.1827ms
+2023-12-19 12:25:03.425 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - -
+2023-12-19 12:25:03.427 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 2.1202ms
+2023-12-19 12:25:05.946 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - -
+2023-12-19 12:25:06.122 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 175.4782ms
+2023-12-19 12:33:56.827 +00:00 [INF] Registering with Consul
+2023-12-19 12:33:57.686 +00:00 [INF] Now listening on: https://localhost:7070
+2023-12-19 12:33:57.687 +00:00 [INF] Now listening on: http://localhost:5178
+2023-12-19 12:33:57.687 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-19 12:33:57.688 +00:00 [INF] Hosting environment: Development
+2023-12-19 12:33:57.688 +00:00 [INF] Content root path: C:\weather_App\Weather_App\User_Service\
+2023-12-19 12:33:58.688 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - -
+2023-12-19 12:33:59.030 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - - - 200 - text/html;charset=utf-8 349.8840ms
+2023-12-19 12:33:59.172 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - -
+2023-12-19 12:33:59.211 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 39.0160ms
+2023-12-19 12:33:59.222 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - -
+2023-12-19 12:33:59.226 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 4.3960ms
+2023-12-19 12:34:03.155 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - -
+2023-12-19 12:34:03.324 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 169.4310ms
+2023-12-19 12:36:20.871 +00:00 [INF] Registering with Consul
+2023-12-19 12:36:21.901 +00:00 [INF] Now listening on: https://localhost:7070
+2023-12-19 12:36:21.902 +00:00 [INF] Now listening on: http://localhost:5178
+2023-12-19 12:36:21.902 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-19 12:36:21.903 +00:00 [INF] Hosting environment: Development
+2023-12-19 12:36:21.903 +00:00 [INF] Content root path: C:\weather_App\Weather_App\User_Service\
+2023-12-19 12:36:23.886 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - -
+2023-12-19 12:36:24.269 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - - - 200 - text/html;charset=utf-8 389.8261ms
+2023-12-19 12:36:25.124 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - -
+2023-12-19 12:36:25.124 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - -
+2023-12-19 12:36:25.127 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 3.6195ms
+2023-12-19 12:36:25.147 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 23.3513ms
+2023-12-19 12:36:26.035 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - -
+2023-12-19 12:36:26.208 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 173.3042ms
+2023-12-19 12:39:12.231 +00:00 [INF] Registering with Consul
+2023-12-19 12:39:13.803 +00:00 [INF] Now listening on: https://localhost:7070
+2023-12-19 12:39:13.804 +00:00 [INF] Now listening on: http://localhost:5178
+2023-12-19 12:39:13.805 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-19 12:39:13.805 +00:00 [INF] Hosting environment: Development
+2023-12-19 12:39:13.805 +00:00 [INF] Content root path: C:\weather_App\Weather_App\User_Service\
+2023-12-19 12:39:19.198 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - -
+2023-12-19 12:39:19.730 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - - - 200 - text/html;charset=utf-8 540.5906ms
+2023-12-19 12:39:20.155 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - -
+2023-12-19 12:39:20.155 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - -
+2023-12-19 12:39:20.158 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 3.6818ms
+2023-12-19 12:39:20.181 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 26.2116ms
+2023-12-19 12:39:21.372 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - -
+2023-12-19 12:39:21.749 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 376.4940ms
+2023-12-19 12:39:33.061 +00:00 [INF] Registering with Consul
+2023-12-19 12:39:34.476 +00:00 [INF] Now listening on: https://localhost:7070
+2023-12-19 12:39:34.477 +00:00 [INF] Now listening on: http://localhost:5178
+2023-12-19 12:39:34.477 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-19 12:39:34.478 +00:00 [INF] Hosting environment: Development
+2023-12-19 12:39:34.478 +00:00 [INF] Content root path: C:\weather_App\Weather_App\User_Service\
+2023-12-19 12:39:35.736 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - -
+2023-12-19 12:39:36.036 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - - - 200 - text/html;charset=utf-8 305.6807ms
+2023-12-19 12:39:36.525 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - -
+2023-12-19 12:39:36.548 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - -
+2023-12-19 12:39:36.549 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 23.9200ms
+2023-12-19 12:39:36.552 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 3.9028ms
+2023-12-19 12:39:37.672 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - -
+2023-12-19 12:39:37.834 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 161.4596ms
+2023-12-19 12:47:29.186 +00:00 [INF] Registering with Consul
+2023-12-19 12:47:30.951 +00:00 [INF] Now listening on: https://localhost:7070
+2023-12-19 12:47:30.952 +00:00 [INF] Now listening on: http://localhost:5178
+2023-12-19 12:47:30.953 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-19 12:47:30.953 +00:00 [INF] Hosting environment: Development
+2023-12-19 12:47:30.953 +00:00 [INF] Content root path: C:\weather_App\Weather_App\User_Service\
+2023-12-19 12:47:34.544 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - -
+2023-12-19 12:47:35.022 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - - - 200 - text/html;charset=utf-8 483.5606ms
+2023-12-19 12:47:35.297 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - -
+2023-12-19 12:47:35.302 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 4.5701ms
+2023-12-19 12:47:35.302 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - -
+2023-12-19 12:47:35.375 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 72.4022ms
+2023-12-19 12:47:37.943 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - -
+2023-12-19 12:47:38.313 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 369.5995ms
+2023-12-19 12:55:37.804 +00:00 [INF] Registering with Consul
+2023-12-19 12:55:39.577 +00:00 [INF] Now listening on: https://localhost:7070
+2023-12-19 12:55:39.578 +00:00 [INF] Now listening on: http://localhost:5178
+2023-12-19 12:55:39.578 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-19 12:55:39.579 +00:00 [INF] Hosting environment: Development
+2023-12-19 12:55:39.579 +00:00 [INF] Content root path: C:\weather_App\Weather_App\User_Service\
+2023-12-19 12:55:40.725 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - -
+2023-12-19 12:55:41.208 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - - - 200 - text/html;charset=utf-8 490.4722ms
+2023-12-19 12:55:43.198 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - -
+2023-12-19 12:55:43.226 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 27.9951ms
+2023-12-19 12:55:43.238 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - -
+2023-12-19 12:55:43.240 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 2.1800ms
+2023-12-19 12:55:43.955 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - -
+2023-12-19 12:55:44.120 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 164.9153ms
+2023-12-19 13:01:31.145 +00:00 [INF] Registering with Consul
+2023-12-19 13:01:32.330 +00:00 [INF] Now listening on: https://localhost:7070
+2023-12-19 13:01:32.331 +00:00 [INF] Now listening on: http://localhost:5178
+2023-12-19 13:01:32.331 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-19 13:01:32.332 +00:00 [INF] Hosting environment: Development
+2023-12-19 13:01:32.332 +00:00 [INF] Content root path: C:\weather_App\Weather_App\User_Service\
+2023-12-19 13:01:35.175 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - -
+2023-12-19 13:01:35.529 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - - - 200 - text/html;charset=utf-8 361.8521ms
+2023-12-19 13:01:36.020 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - -
+2023-12-19 13:01:36.025 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - -
+2023-12-19 13:01:36.030 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 4.2962ms
+2023-12-19 13:01:36.052 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 31.5729ms
+2023-12-19 13:01:39.118 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - -
+2023-12-19 13:01:39.292 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 174.0421ms
+2023-12-19 13:03:47.225 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/api/User - -
+2023-12-19 13:03:47.235 +00:00 [INF] Executing endpoint 'UserController.GetAllUser (User_Service)'
+2023-12-19 13:03:47.291 +00:00 [INF] Route matched with {action = "GetAllUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllUser() on controller UserController (User_Service).
+2023-12-19 13:03:48.764 +00:00 [INF] Retrieved all users: [{"_id":"657be48b4a2cf432f4fc281f","UserId":100,"FullName":"string","Username":"user","Password":"string","Email":"user@example.com","PhoneNumber":8989898989,"$type":"UserDetails"},{"_id":"657d4d9b1971bde3d42ce38c","UserId":101,"FullName":"string","Username":"string","Password":"string","Email":"user@example.com","PhoneNumber":0,"$type":"UserDetails"},{"_id":"657d4e145a55f50a074f85aa","UserId":102,"FullName":"string","Username":"string1","Password":"string","Email":"user@example.com","PhoneNumber":0,"$type":"UserDetails"}]
+2023-12-19 13:03:48.785 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User_Service.Model.UserDetails, User_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-19 13:03:48.799 +00:00 [INF] Executed action UserController.GetAllUser (User_Service) in 1500.6348ms
+2023-12-19 13:03:48.799 +00:00 [INF] Executed endpoint 'UserController.GetAllUser (User_Service)'
+2023-12-19 13:03:48.800 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/api/User - - - 200 - application/json;+charset=utf-8 1574.4047ms
+2023-12-19 13:10:27.094 +00:00 [INF] Registering with Consul
+2023-12-19 13:10:28.500 +00:00 [INF] Now listening on: https://localhost:7070
+2023-12-19 13:10:28.502 +00:00 [INF] Now listening on: http://localhost:5178
+2023-12-19 13:10:28.502 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-19 13:10:28.502 +00:00 [INF] Hosting environment: Development
+2023-12-19 13:10:28.503 +00:00 [INF] Content root path: C:\weather_App\Weather_App\User_Service\
+2023-12-19 13:10:30.627 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - -
+2023-12-19 13:10:31.048 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - - - 200 - text/html;charset=utf-8 428.3500ms
+2023-12-19 13:10:34.971 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - -
+2023-12-19 13:10:34.976 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - -
+2023-12-19 13:10:34.984 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 7.9038ms
+2023-12-19 13:10:34.999 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 28.4037ms
+2023-12-19 13:10:37.628 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - -
+2023-12-19 13:10:37.805 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 176.3238ms
+2023-12-19 13:19:52.244 +00:00 [INF] Registering with Consul
+2023-12-19 13:19:52.949 +00:00 [INF] Now listening on: https://localhost:7070
+2023-12-19 13:19:52.951 +00:00 [INF] Now listening on: http://localhost:5178
+2023-12-19 13:19:52.951 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-19 13:19:52.951 +00:00 [INF] Hosting environment: Development
+2023-12-19 13:19:52.951 +00:00 [INF] Content root path: C:\weather_App\Weather_App\User_Service\
+2023-12-19 13:19:55.433 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - -
+2023-12-19 13:19:55.935 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - - - 200 - text/html;charset=utf-8 508.4464ms
+2023-12-19 13:19:58.193 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - -
+2023-12-19 13:19:58.274 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 80.1666ms
+2023-12-19 13:19:59.854 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - -
+2023-12-19 13:19:59.857 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 2.5353ms
+2023-12-19 13:20:05.749 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - -
+2023-12-19 13:20:06.085 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 335.9948ms
+2023-12-19 13:30:23.016 +00:00 [INF] Registering with Consul
+2023-12-19 13:30:24.575 +00:00 [INF] Now listening on: https://localhost:7070
+2023-12-19 13:30:24.576 +00:00 [INF] Now listening on: http://localhost:5178
+2023-12-19 13:30:24.576 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-19 13:30:24.577 +00:00 [INF] Hosting environment: Development
+2023-12-19 13:30:24.577 +00:00 [INF] Content root path: C:\weather_App\Weather_App\User_Service\
+2023-12-19 13:30:30.405 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - -
+2023-12-19 13:30:31.564 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - - - 200 - text/html;charset=utf-8 1165.7720ms
+2023-12-19 13:30:31.752 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - -
+2023-12-19 13:30:31.756 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - -
+2023-12-19 13:30:31.757 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 5.1084ms
+2023-12-19 13:30:32.787 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 1031.2189ms
+2023-12-19 13:30:33.156 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - -
+2023-12-19 13:30:33.674 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 518.3646ms
+2023-12-19 13:34:04.197 +00:00 [INF] Registering with Consul
+2023-12-19 13:34:05.186 +00:00 [INF] Now listening on: https://localhost:7070
+2023-12-19 13:34:05.187 +00:00 [INF] Now listening on: http://localhost:5178
+2023-12-19 13:34:05.187 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-19 13:34:05.188 +00:00 [INF] Hosting environment: Development
+2023-12-19 13:34:05.188 +00:00 [INF] Content root path: C:\weather_App\Weather_App\User_Service\
+2023-12-19 13:34:07.823 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - -
+2023-12-19 13:34:08.103 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - - - 200 - text/html;charset=utf-8 285.9224ms
+2023-12-19 13:34:08.323 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - -
+2023-12-19 13:34:08.385 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 61.5523ms
+2023-12-19 13:34:09.285 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - -
+2023-12-19 13:34:09.287 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 2.4805ms
+2023-12-19 13:34:11.305 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - -
+2023-12-19 13:34:11.470 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 164.3497ms
+2023-12-19 14:03:19.019 +00:00 [INF] Registering with Consul
+2023-12-19 14:03:20.397 +00:00 [INF] Now listening on: https://localhost:7070
+2023-12-19 14:03:20.398 +00:00 [INF] Now listening on: http://localhost:5178
+2023-12-19 14:03:20.398 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-19 14:03:20.399 +00:00 [INF] Hosting environment: Development
+2023-12-19 14:03:20.399 +00:00 [INF] Content root path: C:\weather_App\Weather_App\User_Service\
+2023-12-19 14:03:25.726 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - -
+2023-12-19 14:03:26.957 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - - - 200 - text/html;charset=utf-8 1237.1555ms
+2023-12-19 14:04:24.795 +00:00 [INF] Registering with Consul
+2023-12-19 14:04:26.276 +00:00 [INF] Now listening on: https://localhost:7070
+2023-12-19 14:04:26.277 +00:00 [INF] Now listening on: http://localhost:5178
+2023-12-19 14:04:26.277 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-19 14:04:26.278 +00:00 [INF] Hosting environment: Development
+2023-12-19 14:04:26.278 +00:00 [INF] Content root path: C:\weather_App\Weather_App\User_Service\
+2023-12-19 14:04:27.710 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - -
+2023-12-19 14:04:28.753 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - - - 200 - text/html;charset=utf-8 1054.9538ms
+2023-12-19 14:04:28.874 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - -
+2023-12-19 14:04:28.879 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 5.2443ms
+2023-12-19 14:04:29.200 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - -
+2023-12-19 14:04:29.596 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 396.1159ms
+2023-12-19 14:04:31.239 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - -
+2023-12-19 14:04:31.472 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 232.6764ms
+2023-12-19 14:06:01.579 +00:00 [INF] Registering with Consul
+2023-12-19 14:06:02.579 +00:00 [INF] Now listening on: https://localhost:7070
+2023-12-19 14:06:02.580 +00:00 [INF] Now listening on: http://localhost:5178
+2023-12-19 14:06:02.580 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-19 14:06:02.581 +00:00 [INF] Hosting environment: Development
+2023-12-19 14:06:02.581 +00:00 [INF] Content root path: C:\weather_App\Weather_App\User_Service\
+2023-12-19 14:06:03.445 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - -
+2023-12-19 14:06:04.353 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - - - 200 - text/html;charset=utf-8 915.6075ms
+2023-12-19 14:06:11.214 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - -
+2023-12-19 14:06:11.218 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 4.2369ms
+2023-12-19 14:06:12.350 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - -
+2023-12-19 14:06:12.370 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 19.5333ms
+2023-12-19 14:06:15.417 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - -
+2023-12-19 14:06:15.601 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 184.5172ms
+2023-12-19 14:07:23.326 +00:00 [INF] Registering with Consul
+2023-12-19 14:07:24.168 +00:00 [INF] Now listening on: https://localhost:7070
+2023-12-19 14:07:24.170 +00:00 [INF] Now listening on: http://localhost:5178
+2023-12-19 14:07:24.170 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-19 14:07:24.170 +00:00 [INF] Hosting environment: Development
+2023-12-19 14:07:24.170 +00:00 [INF] Content root path: C:\weather_App\Weather_App\User_Service\
+2023-12-19 14:07:53.867 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - -
+2023-12-19 14:07:53.891 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - - - 200 12356 application/javascript;+charset=utf-8 43.4961ms
+2023-12-19 14:07:53.892 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - -
+2023-12-19 14:07:54.026 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 133.9771ms
+2023-12-19 14:07:54.250 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - -
+2023-12-19 14:07:54.512 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 261.4348ms
+2023-12-19 14:08:49.574 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7070/api/User - -
+2023-12-19 14:08:49.593 +00:00 [INF] Executing endpoint 'UserController.GetAllUser (User_Service)'
+2023-12-19 14:08:49.653 +00:00 [INF] Route matched with {action = "GetAllUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllUser() on controller UserController (User_Service).
+2023-12-19 14:08:51.254 +00:00 [INF] Retrieved all users: [{"_id":"657be48b4a2cf432f4fc281f","UserId":100,"FullName":"string","Username":"user","Password":"string","Email":"user@example.com","PhoneNumber":8989898989,"$type":"UserDetails"},{"_id":"657d4d9b1971bde3d42ce38c","UserId":101,"FullName":"string","Username":"string","Password":"string","Email":"user@example.com","PhoneNumber":0,"$type":"UserDetails"},{"_id":"657d4e145a55f50a074f85aa","UserId":102,"FullName":"string","Username":"string1","Password":"string","Email":"user@example.com","PhoneNumber":0,"$type":"UserDetails"}]
+2023-12-19 14:08:51.283 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[User_Service.Model.UserDetails, User_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-19 14:08:51.322 +00:00 [INF] Executed action UserController.GetAllUser (User_Service) in 1659.6617ms
+2023-12-19 14:08:51.324 +00:00 [INF] Executed endpoint 'UserController.GetAllUser (User_Service)'
+2023-12-19 14:08:51.326 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7070/api/User - - - 200 - application/json;+charset=utf-8 1751.7811ms

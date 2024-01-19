@@ -1,0 +1,52 @@
+<app-header></app-header>
+<div class="container mt-3">
+  <ng-container *ngIf="wishlistData.length > 0; else noCities">
+  <h1>Hi {{username}}</h1>
+  <h3>Your Wishlist is here</h3>
+
+  <button class="btn btn-custom mt-3" (click)="routeToHome()">
+    <i class="fas fa-plus"></i> Add City
+  </button>
+
+ 
+  
+    <div class="table-wrapper mt-3">
+      <div class="table-responsive">
+        <table class="table table-bordered table-styled">
+          <thead class="thead-light">
+            <tr>
+              <th>City</th>
+              <th>Country</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let item of wishlistData">
+              <td>{{ item.city }}</td>
+              <td>{{ item.country }}</td>
+              <td>
+                <button class="btn btn-info mr-2" (click)="checkWeather(item.city)">Check Weather</button>
+                <button class="btn btn-danger" (click)="deleteCitybyUser(item.city)">Delete</button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </ng-container>
+
+  <!-- Message when there are no cities in the wishlist -->
+  <ng-template #noCities>
+    <div class="text-center mt-3">
+      <h1>Hi {{username}}</h1>
+      <h2>There are no cities in the wishlist.</h2>
+      <h4>To add a city to the wishlist, click the Add City button here.</h4>
+      <button class="btn btn-custom custom-width-btn mt-3" (click)="routeToHome()">
+        <i class="fas fa-plus"></i> Add City
+      </button>
+    </div>
+  </ng-template>
+
+</div>
+
+<app-footer class="fixed-bottom mt-20"></app-footer>

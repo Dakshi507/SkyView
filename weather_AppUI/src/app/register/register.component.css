@@ -1,0 +1,36 @@
+.card {
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff7ff;
+    
+}
+
+.card h2 {
+    color: #333;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="tel"] {
+    border-radius: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    width: calc(100% - 18px); 
+}
+
+button[type="submit"] {
+    border-radius: 10px;
+    padding: 8px;
+    width: 100%;
+    background-color: #007bff;
+    color: white;
+    border: none;
+}
+

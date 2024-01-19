@@ -1,0 +1,51 @@
+.bg-dark-red {
+    background-color: rgb(165, 81, 81);
+    color: white;
+    padding: 20px 0;
+}
+
+.navbar-toggler {
+    color: white;
+    border-color: white;
+}
+
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.nav-link i {
+    font-size: 1em;
+}
+
+.navbar-nav .form-control {
+    max-width: 300px;
+    width: 100%;
+}
+
+
+.search-form {
+    position: relative;
+}
+
+
+.search-input {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.search-btn {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-left: -1px; 
+}
+
+.nav-link .fa-lg {
+    font-size: 1.5em; 
+    margin-right: 10px; 
+}
+
+.nav-link .icon-text {
+    font-size: 1.2em; 
+}
+

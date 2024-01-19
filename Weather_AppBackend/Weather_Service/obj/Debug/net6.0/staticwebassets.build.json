@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZEZzUCbxS6kTiTEm1mRJHVYM5XDGD1gwL6ZqyFStG5k=",
+  "Source": "Weather_Service",
+  "BasePath": "_content/Weather_Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

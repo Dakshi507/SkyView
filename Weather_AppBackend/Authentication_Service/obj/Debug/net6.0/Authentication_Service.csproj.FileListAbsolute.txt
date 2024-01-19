@@ -1,0 +1,249 @@
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.csproj.AssemblyReference.cache
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.AssemblyInfoInputs.cache
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.AssemblyInfo.cs
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.csproj.CoreCompileInputs.cache
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\appsettings.Development.json
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\appsettings.json
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Authentication_Service.exe
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Authentication_Service.deps.json
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Authentication_Service.runtimeconfig.json
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Authentication_Service.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Authentication_Service.pdb
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Humanizer.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Serilog.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Weather_App1\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets\msbuild.Authentication_Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets\msbuild.build.Authentication_Service.props
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Authentication_Service.props
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Authentication_Service.props
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets.build.json
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets.development.json
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\scopedcss\bundle\Authentication_Service.styles.css
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.csproj.CopyComplete
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.dll
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\refint\Authentication_Service.dll
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.pdb
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.genruntimeconfig.cache
+C:\Weather_App1\Weather_App\Authentication_Service\obj\Debug\net6.0\ref\Authentication_Service.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\appsettings.Development.json
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\appsettings.json
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Authentication_Service.exe
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Authentication_Service.deps.json
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Authentication_Service.runtimeconfig.json
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Authentication_Service.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Authentication_Service.pdb
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Consul.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\FluentValidation.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Humanizer.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\IPAddressRange.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Ocelot.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Ocelot.Provider.Consul.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Serilog.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Common.dll
+C:\weather_App\Weather_App\Authentication_Service\bin\Debug\net6.0\Common.pdb
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.csproj.AssemblyReference.cache
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.AssemblyInfoInputs.cache
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.AssemblyInfo.cs
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.csproj.CoreCompileInputs.cache
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.MvcApplicationPartsAssemblyInfo.cs
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.MvcApplicationPartsAssemblyInfo.cache
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets\msbuild.Authentication_Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets\msbuild.build.Authentication_Service.props
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Authentication_Service.props
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Authentication_Service.props
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets.pack.json
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets.build.json
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets.development.json
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\scopedcss\bundle\Authentication_Service.styles.css
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.csproj.CopyComplete
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.dll
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\refint\Authentication_Service.dll
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.pdb
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.genruntimeconfig.cache
+C:\weather_App\Weather_App\Authentication_Service\obj\Debug\net6.0\ref\Authentication_Service.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\appsettings.Development.json
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\appsettings.json
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Authentication_Service.exe
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Authentication_Service.deps.json
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Authentication_Service.runtimeconfig.json
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Authentication_Service.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Authentication_Service.pdb
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Consul.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\FluentValidation.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Humanizer.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\IPAddressRange.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Ocelot.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Ocelot.Provider.Consul.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Serilog.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Common.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\bin\Debug\net6.0\Common.pdb
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.csproj.AssemblyReference.cache
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.AssemblyInfoInputs.cache
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.AssemblyInfo.cs
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.csproj.CoreCompileInputs.cache
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.MvcApplicationPartsAssemblyInfo.cs
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.MvcApplicationPartsAssemblyInfo.cache
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets.build.json
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets.development.json
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets\msbuild.Authentication_Service.Microsoft.AspNetCore.StaticWebAssets.props
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets\msbuild.build.Authentication_Service.props
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Authentication_Service.props
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Authentication_Service.props
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\staticwebassets.pack.json
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\scopedcss\bundle\Authentication_Service.styles.css
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.csproj.CopyComplete
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\refint\Authentication_Service.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.pdb
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\Authentication_Service.genruntimeconfig.cache
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Authentication_Service\obj\Debug\net6.0\ref\Authentication_Service.dll

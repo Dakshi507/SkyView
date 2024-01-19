@@ -1,0 +1,235 @@
+2024-01-09 13:51:45.716 +05:30 [INF] Registering with Consul
+2024-01-09 13:51:47.929 +05:30 [INF] Now listening on: https://localhost:7045
+2024-01-09 13:51:47.932 +05:30 [INF] Now listening on: http://localhost:5197
+2024-01-09 13:51:47.932 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-09 13:51:47.933 +05:30 [INF] Hosting environment: Development
+2024-01-09 13:51:47.933 +05:30 [INF] Content root path: E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Wishlist_Service\
+2024-01-09 13:51:48.702 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger - -
+2024-01-09 13:51:48.823 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger - - - 301 0 - 126.8593ms
+2024-01-09 13:51:48.845 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/index.html - -
+2024-01-09 13:51:49.063 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/index.html - - - 200 - text/html;charset=utf-8 218.3208ms
+2024-01-09 13:51:49.083 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/swagger-ui.css - -
+2024-01-09 13:51:49.167 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/swagger-ui-bundle.js - -
+2024-01-09 13:51:49.169 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/swagger-ui-standalone-preset.js - -
+2024-01-09 13:51:49.170 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - -
+2024-01-09 13:51:49.174 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 3.5386ms
+2024-01-09 13:51:49.171 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7045/_vs/browserLink - -
+2024-01-09 13:51:49.182 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-01-09 13:51:49.182 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-01-09 13:51:49.185 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 16.0954ms
+2024-01-09 13:51:49.186 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/swagger-ui.css - - - 200 144929 text/css 102.4069ms
+2024-01-09 13:51:49.193 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-01-09 13:51:49.193 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 25.8844ms
+2024-01-09 13:51:49.244 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 72.1884ms
+2024-01-09 13:51:49.998 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - -
+2024-01-09 13:51:50.002 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/favicon-32x32.png - -
+2024-01-09 13:51:50.002 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-01-09 13:51:50.003 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/favicon-32x32.png - - - 200 628 image/png 0.8051ms
+2024-01-09 13:51:50.654 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 654.9263ms
+2024-01-09 14:29:35.275 +05:30 [INF] Registering with Consul
+2024-01-09 14:30:38.776 +05:30 [INF] Registering with Consul
+2024-01-09 14:30:39.369 +05:30 [INF] Now listening on: https://localhost:7045
+2024-01-09 14:30:39.370 +05:30 [INF] Now listening on: http://localhost:5197
+2024-01-09 14:30:39.370 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-09 14:30:39.371 +05:30 [INF] Hosting environment: Development
+2024-01-09 14:30:39.371 +05:30 [INF] Content root path: E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Wishlist_Service\
+2024-01-09 14:30:39.755 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/index.html - -
+2024-01-09 14:30:40.027 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/index.html - - - 200 - text/html;charset=utf-8 278.2008ms
+2024-01-09 14:30:40.044 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - -
+2024-01-09 14:30:40.049 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7045/_vs/browserLink - -
+2024-01-09 14:30:40.051 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 7.7678ms
+2024-01-09 14:30:40.103 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 53.6922ms
+2024-01-09 14:30:40.666 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - -
+2024-01-09 14:30:41.004 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 337.8577ms
+2024-01-09 14:33:30.972 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2024-01-09 14:33:30.978 +05:30 [INF] CORS policy execution successful.
+2024-01-09 14:33:30.983 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:33:31.014 +05:30 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:33:31.595 +05:30 [INF] Retrieved city by user ID: Dakshi
+2024-01-09 14:33:31.603 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-09 14:33:31.608 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 590.5518ms
+2024-01-09 14:33:31.609 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:33:31.609 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 637.0853ms
+2024-01-09 14:34:06.932 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2024-01-09 14:34:06.933 +05:30 [INF] CORS policy execution successful.
+2024-01-09 14:34:06.933 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:34:06.934 +05:30 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:34:06.940 +05:30 [INF] Retrieved city by user ID: Dakshi
+2024-01-09 14:34:06.940 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-09 14:34:06.941 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 7.449ms
+2024-01-09 14:34:06.942 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:34:06.942 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 9.7226ms
+2024-01-09 14:34:14.204 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:7045/api/WishList/Add application/json 51
+2024-01-09 14:34:14.205 +05:30 [INF] CORS policy execution successful.
+2024-01-09 14:34:14.205 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service)'
+2024-01-09 14:34:14.207 +05:30 [INF] Route matched with {action = "AddCityinWishList", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddCityinWishList(Wishlist_Service.Model.Wishlist) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:34:14.335 +05:30 [ERR] An error occurred while adding city to wishlist
+Wishlist_Service.Exceptions.CitynotAddedException: Failed to Add in wishlist
+   at Wishlist_Service.Service.WishlistService.CreateCity(Wishlist wishlist) in E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Wishlist_Service\Service\WishlistService.cs:line 37
+   at Wishlist_Service.Controllers.WishListController.AddCityinWishList(Wishlist wishlist) in E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Wishlist_Service\Controllers\WishListController.cs:line 29
+2024-01-09 14:34:14.486 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2024-01-09 14:34:14.486 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service) in 279.1173ms
+2024-01-09 14:34:14.486 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service)'
+2024-01-09 14:34:14.486 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:7045/api/WishList/Add application/json 51 - 500 - text/plain;+charset=utf-8 281.9744ms
+2024-01-09 14:34:18.401 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:7045/api/WishList/Add application/json 51
+2024-01-09 14:34:18.401 +05:30 [INF] CORS policy execution successful.
+2024-01-09 14:34:18.401 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service)'
+2024-01-09 14:34:18.402 +05:30 [INF] Route matched with {action = "AddCityinWishList", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddCityinWishList(Wishlist_Service.Model.Wishlist) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:34:18.406 +05:30 [ERR] An error occurred while adding city to wishlist
+Wishlist_Service.Exceptions.CitynotAddedException: Failed to Add in wishlist
+   at Wishlist_Service.Service.WishlistService.CreateCity(Wishlist wishlist) in E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Wishlist_Service\Service\WishlistService.cs:line 37
+   at Wishlist_Service.Controllers.WishListController.AddCityinWishList(Wishlist wishlist) in E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Wishlist_Service\Controllers\WishListController.cs:line 29
+2024-01-09 14:34:18.407 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2024-01-09 14:34:18.407 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service) in 5.33ms
+2024-01-09 14:34:18.407 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service)'
+2024-01-09 14:34:18.407 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:7045/api/WishList/Add application/json 51 - 500 - text/plain;+charset=utf-8 5.9734ms
+2024-01-09 14:34:50.191 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7045/api/WishList - -
+2024-01-09 14:34:50.191 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetAlCity (Wishlist_Service)'
+2024-01-09 14:34:50.193 +05:30 [INF] Route matched with {action = "GetAlCity", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAlCity() on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:34:50.197 +05:30 [INF] Retrieved all cities from wishlist
+2024-01-09 14:34:50.197 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-09 14:34:50.197 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetAlCity (Wishlist_Service) in 3.7823ms
+2024-01-09 14:34:50.197 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetAlCity (Wishlist_Service)'
+2024-01-09 14:34:50.197 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7045/api/WishList - - - 200 - application/json;+charset=utf-8 6.5202ms
+2024-01-09 14:36:51.444 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7045/api/WishList - -
+2024-01-09 14:36:51.444 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetAlCity (Wishlist_Service)'
+2024-01-09 14:36:51.444 +05:30 [INF] Route matched with {action = "GetAlCity", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAlCity() on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:36:51.454 +05:30 [INF] Retrieved all cities from wishlist
+2024-01-09 14:36:51.454 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-09 14:36:51.455 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetAlCity (Wishlist_Service) in 10.3813ms
+2024-01-09 14:36:51.455 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetAlCity (Wishlist_Service)'
+2024-01-09 14:36:51.455 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7045/api/WishList - - - 200 - application/json;+charset=utf-8 10.8913ms
+2024-01-09 14:37:05.765 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2024-01-09 14:37:05.766 +05:30 [INF] CORS policy execution successful.
+2024-01-09 14:37:05.766 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:37:05.766 +05:30 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:37:05.768 +05:30 [INF] Retrieved city by user ID: Dakshi
+2024-01-09 14:37:05.768 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-09 14:37:05.768 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 2.564ms
+2024-01-09 14:37:05.769 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:37:05.769 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 3.3620ms
+2024-01-09 14:37:34.176 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2024-01-09 14:37:34.177 +05:30 [INF] CORS policy execution successful.
+2024-01-09 14:37:34.177 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:37:34.177 +05:30 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:37:34.178 +05:30 [INF] Retrieved city by user ID: Dakshi
+2024-01-09 14:37:34.179 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-09 14:37:34.179 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 1.9585ms
+2024-01-09 14:37:34.179 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:37:34.179 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 2.6307ms
+2024-01-09 14:37:41.954 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2024-01-09 14:37:41.954 +05:30 [INF] CORS policy execution successful.
+2024-01-09 14:37:41.954 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:37:41.954 +05:30 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:37:41.956 +05:30 [INF] Retrieved city by user ID: Dakshi
+2024-01-09 14:37:41.956 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-09 14:37:41.956 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 2.1038ms
+2024-01-09 14:37:41.956 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:37:41.956 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 2.6950ms
+2024-01-09 14:37:44.229 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:7045/api/WishList/Add application/json 50
+2024-01-09 14:37:44.229 +05:30 [INF] CORS policy execution successful.
+2024-01-09 14:37:44.229 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service)'
+2024-01-09 14:37:44.229 +05:30 [INF] Route matched with {action = "AddCityinWishList", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddCityinWishList(Wishlist_Service.Model.Wishlist) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:37:44.282 +05:30 [INF] City added to wishlist: Pune
+2024-01-09 14:37:44.282 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-01-09 14:37:44.284 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service) in 54.429ms
+2024-01-09 14:37:44.284 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service)'
+2024-01-09 14:37:44.284 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:7045/api/WishList/Add application/json 50 - 200 - application/json;+charset=utf-8 54.8534ms
+2024-01-09 14:37:50.813 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2024-01-09 14:37:50.813 +05:30 [INF] CORS policy execution successful.
+2024-01-09 14:37:50.813 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:37:50.813 +05:30 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:37:50.815 +05:30 [INF] Retrieved city by user ID: Dakshi
+2024-01-09 14:37:50.815 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-09 14:37:50.815 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 1.9706ms
+2024-01-09 14:37:50.815 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:37:50.815 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 2.5417ms
+2024-01-09 14:38:29.205 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2024-01-09 14:38:29.206 +05:30 [INF] CORS policy execution successful.
+2024-01-09 14:38:29.206 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:38:29.206 +05:30 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:38:29.207 +05:30 [INF] Retrieved city by user ID: Dakshi
+2024-01-09 14:38:29.207 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-09 14:38:29.207 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 1.6055ms
+2024-01-09 14:38:29.207 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:38:29.207 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 2.0224ms
+2024-01-09 14:38:33.635 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2024-01-09 14:38:33.636 +05:30 [INF] CORS policy execution successful.
+2024-01-09 14:38:33.636 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:38:33.636 +05:30 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:38:33.637 +05:30 [INF] Retrieved city by user ID: Dakshi
+2024-01-09 14:38:33.637 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-09 14:38:33.638 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 1.7334ms
+2024-01-09 14:38:33.638 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:38:33.638 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 2.3412ms
+2024-01-09 14:38:38.760 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2024-01-09 14:38:38.760 +05:30 [INF] CORS policy execution successful.
+2024-01-09 14:38:38.760 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:38:38.761 +05:30 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:38:38.762 +05:30 [INF] Retrieved city by user ID: Dakshi
+2024-01-09 14:38:38.762 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-09 14:38:38.762 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 1.7483ms
+2024-01-09 14:38:38.762 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:38:38.762 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 2.3229ms
+2024-01-09 14:39:31.981 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:7045/api/WishList/Add application/json 51
+2024-01-09 14:39:31.981 +05:30 [INF] CORS policy execution successful.
+2024-01-09 14:39:31.981 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service)'
+2024-01-09 14:39:31.982 +05:30 [INF] Route matched with {action = "AddCityinWishList", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddCityinWishList(Wishlist_Service.Model.Wishlist) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:39:31.986 +05:30 [INF] City added to wishlist: Delhi
+2024-01-09 14:39:31.986 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-01-09 14:39:31.986 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service) in 4.2804ms
+2024-01-09 14:39:31.986 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service)'
+2024-01-09 14:39:31.986 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:7045/api/WishList/Add application/json 51 - 200 - application/json;+charset=utf-8 4.8216ms
+2024-01-09 14:39:33.497 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2024-01-09 14:39:33.498 +05:30 [INF] CORS policy execution successful.
+2024-01-09 14:39:33.498 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:39:33.498 +05:30 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:39:33.500 +05:30 [INF] Retrieved city by user ID: Dakshi
+2024-01-09 14:39:33.500 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-09 14:39:33.500 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 2.0163ms
+2024-01-09 14:39:33.500 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:39:33.500 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 2.8794ms
+2024-01-09 14:39:34.890 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2024-01-09 14:39:34.890 +05:30 [INF] CORS policy execution successful.
+2024-01-09 14:39:34.890 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:39:34.890 +05:30 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:39:34.892 +05:30 [INF] Retrieved city by user ID: Dakshi
+2024-01-09 14:39:34.892 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-09 14:39:34.892 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 1.7754ms
+2024-01-09 14:39:34.892 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:39:34.892 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 2.6534ms
+2024-01-09 14:40:01.635 +05:30 [INF] Request starting HTTP/1.1 DELETE https://localhost:7045/api/WishList/city/Delhi/user/Dakshi - 0
+2024-01-09 14:40:01.635 +05:30 [INF] CORS policy execution successful.
+2024-01-09 14:40:01.635 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.DeleteCity (Wishlist_Service)'
+2024-01-09 14:40:01.638 +05:30 [INF] Route matched with {action = "DeleteCity", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] DeleteCity(System.String, System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:40:01.652 +05:30 [INF] City removed from wishlist: Delhi
+2024-01-09 14:40:01.652 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-01-09 14:40:01.652 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.DeleteCity (Wishlist_Service) in 14.7172ms
+2024-01-09 14:40:01.652 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.DeleteCity (Wishlist_Service)'
+2024-01-09 14:40:01.652 +05:30 [INF] Request finished HTTP/1.1 DELETE https://localhost:7045/api/WishList/city/Delhi/user/Dakshi - 0 - 200 - application/json;+charset=utf-8 17.5559ms
+2024-01-09 14:40:03.301 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2024-01-09 14:40:03.301 +05:30 [INF] CORS policy execution successful.
+2024-01-09 14:40:03.301 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:40:03.301 +05:30 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:40:03.303 +05:30 [INF] Retrieved city by user ID: Dakshi
+2024-01-09 14:40:03.303 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-09 14:40:03.303 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 1.8157ms
+2024-01-09 14:40:03.303 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:40:03.303 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 2.2992ms
+2024-01-09 14:40:03.312 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2024-01-09 14:40:03.312 +05:30 [INF] CORS policy execution successful.
+2024-01-09 14:40:03.312 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:40:03.312 +05:30 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 14:40:03.314 +05:30 [INF] Retrieved city by user ID: Dakshi
+2024-01-09 14:40:03.314 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-09 14:40:03.315 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 2.3534ms
+2024-01-09 14:40:03.315 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2024-01-09 14:40:03.315 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 2.7827ms
+2024-01-09 16:29:22.314 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7045/api/WishList - -
+2024-01-09 16:29:22.319 +05:30 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetAlCity (Wishlist_Service)'
+2024-01-09 16:29:22.320 +05:30 [INF] Route matched with {action = "GetAlCity", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAlCity() on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2024-01-09 16:29:22.336 +05:30 [INF] Retrieved all cities from wishlist
+2024-01-09 16:29:22.337 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-09 16:29:22.337 +05:30 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetAlCity (Wishlist_Service) in 17.5222ms
+2024-01-09 16:29:22.337 +05:30 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetAlCity (Wishlist_Service)'
+2024-01-09 16:29:22.338 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7045/api/WishList - - - 200 - application/json;+charset=utf-8 24.1570ms

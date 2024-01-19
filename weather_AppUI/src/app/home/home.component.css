@@ -1,0 +1,77 @@
+.weather-container {
+    /* background-image: url('img/ETLWN4NNI334DABH4WIDHTWDCU.jpg');  */
+    background-image: url('https://images.unsplash.com/photo-1556983703-27576e5afa24?q=80&w=1947&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); 
+     /*background-image: url('https://images.unsplash.com/photo-1561583534-09e822ba83ba?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');    */background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+main {
+    height: 77vh; 
+    display: flex;
+    align-items: flex-start; 
+    justify-content: center;
+    color: white;
+    text-align: center;
+    padding-top: 10vh;
+ 
+    
+}
+
+.city-name {
+    font-weight: bold;
+    font-size: 3em;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.weather-info {
+    padding: 20px; 
+    background-color: rgba(0, 0, 0, 0.5); 
+    border-radius: 8px;
+    margin-top: 0px; 
+}
+
+.location-info {
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: 0px;
+}
+.btn-add-wishlist {
+    width: 300px; 
+}
+
+.info-message {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.text-danger {
+    font-size: 16px;
+    color: red;
+    font-weight: bold;
+}
+.city-name {
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+
+.location-info,
+.info,
+.additional-info {
+    font-size: 18px;
+  
+}
+
+.additional-info {
+    font-style: italic;
+  
+}
+
+
+.info i {
+    margin-right: 5px; 
+  
+}

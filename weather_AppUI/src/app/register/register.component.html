@@ -1,0 +1,70 @@
+
+<app-header></app-header>
+
+
+<main class="container mt-4">
+    <div class="row">
+
+        
+        <div class="col-md-6">
+            <div class="card border-rounded p-4">
+                <h2 class="text-center mb-4">Register here</h2>
+                <form [formGroup]="registerForm" (ngSubmit)="onSubmit()">
+                    <div class="form-group">
+                        <div *ngIf="registerForm.get('fullName')?.invalid && registerForm.get('fullName')?.touched">
+                            <div *ngIf="registerForm.get('fullName')?.hasError('required')" style="color: red">Name is required.</div>
+                            <div *ngIf="registerForm.get('fullName')?.hasError('minlength')" style="color: red">Name should be at least 3 characters long.</div>
+                            <div *ngIf="registerForm.get('fullName')?.hasError('maxlength')" style="color: red">Name should be at most 40 characters long.</div>
+                            <div *ngIf="registerForm.get('fullName')?.hasError('pattern')" style="color: red">Name should contain only alphabet characters.</div>
+                        </div>
+                        <input type="text" class="form-control custom-input mb-3" formControlName="fullName" placeholder="Name">
+                        
+                        <div *ngIf="registerForm.get('email')?.invalid && registerForm.get('email')?.touched">
+                            <div *ngIf="registerForm.get('email')?.hasError('required')" style="color: red">Email is required.</div>
+                            <div *ngIf="registerForm.get('email')?.hasError('pattern')" style="color: red">Please enter a valid email.</div>
+                        </div>
+                        <input type="email" class="form-control custom-input mb-3" formControlName="email" placeholder="Email">
+
+                        <div *ngIf="registerForm.get('username')?.invalid && registerForm.get('username')?.touched">
+                            <div *ngIf="registerForm.get('username')?.hasError('required')" style="color: red">username is required.</div>
+                            <div *ngIf="registerForm.get('username')?.hasError('minlength')" style="color: red">Username should be at least 3 characters long.</div>
+                            <div *ngIf="registerForm.get('username')?.hasError('maxlength')" style="color: red">Username should be at most 20 characters long.</div>
+                            <div *ngIf="registerForm.get('username')?.hasError('pattern')" style="color: red">Username should not contain space.</div>
+                        </div>
+                        <input type="text" class="form-control custom-input mb-3" formControlName="username" placeholder="User Name">
+
+                        <div *ngIf="registerForm.get('password')?.invalid && registerForm.get('password')?.touched">
+                            <div *ngIf="registerForm.get('password')?.hasError('required')" style="color: red">Password is required.</div>
+                            <div *ngIf="registerForm.get('password')?.hasError('minlength')" style="color: red">Password should be at least 4 characters long.</div>
+                            <div *ngIf="registerForm.get('password')?.hasError('maxlength')" style="color: red">Password should be at most 20 characters long.</div>
+                            <div *ngIf="registerForm.get('password')?.hasError('pattern')" style="color: red">Password should contain at least one lowercase, one uppercase, one digit, and may contain special characters.</div>
+                        </div>
+                        <input type="password" class="form-control custom-input mb-3" formControlName="password" placeholder="Password">
+
+                        <div *ngIf="registerForm.get('confirmPassword')?.invalid && registerForm.get('confirmPassword')?.touched">
+                            <div *ngIf="registerForm.get('confirmPassword')?.hasError('required')" style="color: red">Confirm Password is required.</div>
+                            <div *ngIf="registerForm.get('confirmPassword')?.hasError('mismatch')" style="color: red">Password and confirm Password does not match.</div>
+                            
+                        </div>
+                        <input type="password" class="form-control custom-input mb-3" formControlName="confirmPassword" placeholder="Confirm Password">
+
+                        <div *ngIf="registerForm.get('phoneNumber')?.invalid && registerForm.get('phoneNumber')?.touched">
+                            <div *ngIf="registerForm.get('phoneNumber')?.hasError('required')" style="color: red">Phone number is required.</div>
+                            <div *ngIf="registerForm.get('phoneNumber')?.hasError('pattern')" style="color: red">Please enter a valid 10-digit phone number.</div>
+                          </div>
+                        <input type="tel" class="form-control custom-input mb-3" formControlName="phoneNumber" placeholder="Phone Number">
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block custom-input mt-4" [disabled]="registerForm.invalid">Register</button>
+                </form>
+            </div>
+        </div>
+        <div class="col-lg-5">
+            <img src="https://previews.123rf.com/images/esazanova/esazanova1903/esazanova190300015/120319078-weather-forecast-colorful-icon-flat-cloudy-sun-symbol-isolated-on-white-background-vector.jpg" alt="Weather" class="img-fluid weather-image">    
+        </div>
+  </div>
+</main>
+
+
+<app-footer></app-footer>
+
+

@@ -1,0 +1,48 @@
+
+<app-header></app-header>
+
+<div class="weather-container">
+    <main class="main-content">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+
+                    <div *ngIf="!weatherData || weatherData.cod === '404'">
+                        <h1>Welcome to SkyView</h1>
+                    </div>
+                  
+                    <div class="weather-info" *ngIf="weatherData && weatherData.cod !== '404'">
+                        <h2 class="city-name">{{ weatherData?.name }}, {{ weatherData?.sys?.country }}</h2>
+                        <p class="location-info">Longitude: {{ weatherData?.coord?.lon }}, Latitude: {{ weatherData?.coord?.lat }}</p>
+                        <p class="location-info">Weather: {{ weatherData?.weather[0]?.main }}</p>
+                        <div class="info">
+                            <i class="fas fa-sun"></i> Sunrise: {{ weatherData?.sys?.sunrise | date: 'shortTime' }},
+                            Sunset: {{ weatherData?.sys?.sunset | date: 'shortTime' }}
+                        </div>
+                        <div class="info">
+                            <i class="fas fa-temperature-high"></i> High: {{ weatherData?.main?.temp_max }}°C,
+                            Low: {{ weatherData?.main?.temp_min }}°C
+                        </div>
+                        <div class="info">
+                            Main Temperature: {{ weatherData?.main?.temp }}°C
+                        </div>
+                        <div class="info">
+                            <i class="fas fa-wind"></i> Wind Speed: {{ weatherData?.wind?.speed }},
+                            Direction: {{ weatherData?.wind?.deg }}
+                        </div>
+                        <div class="info">
+                            <i class="fas fa-smog"></i> Pressure: {{ weatherData?.main?.pressure }},
+                            Humidity: {{ weatherData?.main?.humidity }},
+                            Visibility: {{ weatherData?.visibility}}
+                        </div>
+                        <p class="additional-info">Additional weather information goes here...</p> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+</div>
+
+
+<app-footer></app-footer>

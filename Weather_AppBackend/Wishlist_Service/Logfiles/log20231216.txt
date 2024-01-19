@@ -1,0 +1,337 @@
+2023-12-16 08:11:59.159 +00:00 [INF] Now listening on: https://localhost:7045
+2023-12-16 08:11:59.220 +00:00 [INF] Now listening on: http://localhost:5197
+2023-12-16 08:11:59.229 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-16 08:11:59.230 +00:00 [INF] Hosting environment: Development
+2023-12-16 08:11:59.230 +00:00 [INF] Content root path: C:\weather_App\Weather_App\Wishlist_Service\
+2023-12-16 08:12:06.306 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/index.html - -
+2023-12-16 08:12:08.615 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/index.html - - - 200 - text/html;charset=utf-8 2314.8715ms
+2023-12-16 08:12:10.185 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - -
+2023-12-16 08:12:10.191 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 5.7508ms
+2023-12-16 08:12:11.642 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_vs/browserLink - -
+2023-12-16 08:12:12.577 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 935.1571ms
+2023-12-16 08:12:13.426 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - -
+2023-12-16 08:12:14.072 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 646.2278ms
+2023-12-16 08:18:47.450 +00:00 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2023-12-16 08:18:47.459 +00:00 [INF] CORS policy execution successful.
+2023-12-16 08:18:47.465 +00:00 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2023-12-16 08:18:47.530 +00:00 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2023-12-16 08:18:49.312 +00:00 [INF] Retrieved city by user ID: Dakshi
+2023-12-16 08:18:49.324 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-16 08:18:49.332 +00:00 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 1796.5463ms
+2023-12-16 08:18:49.334 +00:00 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2023-12-16 08:18:49.334 +00:00 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 1884.1875ms
+2023-12-16 08:18:57.969 +00:00 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2023-12-16 08:18:57.971 +00:00 [INF] CORS policy execution successful.
+2023-12-16 08:18:57.971 +00:00 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2023-12-16 08:18:57.971 +00:00 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2023-12-16 08:18:58.032 +00:00 [INF] Retrieved city by user ID: Dakshi
+2023-12-16 08:18:58.033 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-16 08:18:58.033 +00:00 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 61.7077ms
+2023-12-16 08:18:58.033 +00:00 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2023-12-16 08:18:58.033 +00:00 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 64.0717ms
+2023-12-16 08:19:00.478 +00:00 [INF] Request starting HTTP/1.1 POST https://localhost:7045/api/WishList/Add application/json 51
+2023-12-16 08:19:00.478 +00:00 [INF] CORS policy execution successful.
+2023-12-16 08:19:00.479 +00:00 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service)'
+2023-12-16 08:19:00.483 +00:00 [INF] Route matched with {action = "AddCityinWishList", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddCityinWishList(Wishlist_Service.Model.Wishlist) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2023-12-16 08:19:00.892 +00:00 [INF] City added to wishlist: Satna
+2023-12-16 08:19:00.892 +00:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2023-12-16 08:19:00.894 +00:00 [INF] Executed action Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service) in 411.4305ms
+2023-12-16 08:19:00.894 +00:00 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service)'
+2023-12-16 08:19:00.895 +00:00 [INF] Request finished HTTP/1.1 POST https://localhost:7045/api/WishList/Add application/json 51 - 200 - application/json;+charset=utf-8 416.8551ms
+2023-12-16 08:19:06.811 +00:00 [INF] Request starting HTTP/1.1 POST https://localhost:7045/api/WishList/Add application/json 51
+2023-12-16 08:19:06.811 +00:00 [INF] CORS policy execution successful.
+2023-12-16 08:19:06.811 +00:00 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service)'
+2023-12-16 08:19:06.811 +00:00 [INF] Route matched with {action = "AddCityinWishList", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddCityinWishList(Wishlist_Service.Model.Wishlist) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2023-12-16 08:19:06.823 +00:00 [WRN] City already exists in wishlist: Satna
+2023-12-16 08:19:06.824 +00:00 [INF] Executing ConflictObjectResult, writing value of type 'System.String'.
+2023-12-16 08:19:06.825 +00:00 [INF] Executed action Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service) in 13.0849ms
+2023-12-16 08:19:06.825 +00:00 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service)'
+2023-12-16 08:19:06.825 +00:00 [INF] Request finished HTTP/1.1 POST https://localhost:7045/api/WishList/Add application/json 51 - 409 - text/plain;+charset=utf-8 14.0424ms
+2023-12-16 08:19:11.486 +00:00 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2023-12-16 08:19:11.486 +00:00 [INF] CORS policy execution successful.
+2023-12-16 08:19:11.486 +00:00 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2023-12-16 08:19:11.486 +00:00 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2023-12-16 08:19:11.501 +00:00 [INF] Retrieved city by user ID: Dakshi
+2023-12-16 08:19:11.501 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-16 08:19:11.503 +00:00 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 16.4201ms
+2023-12-16 08:19:11.503 +00:00 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2023-12-16 08:19:11.503 +00:00 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 17.1261ms
+2023-12-16 08:19:16.118 +00:00 [INF] Request starting HTTP/1.1 DELETE https://localhost:7045/api/WishList/city/Satna/user/Dakshi - 0
+2023-12-16 08:19:16.119 +00:00 [INF] CORS policy execution successful.
+2023-12-16 08:19:16.119 +00:00 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.DeleteCity (Wishlist_Service)'
+2023-12-16 08:19:16.124 +00:00 [INF] Route matched with {action = "DeleteCity", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] DeleteCity(System.String, System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2023-12-16 08:19:16.143 +00:00 [INF] City removed from wishlist: Satna
+2023-12-16 08:19:16.144 +00:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2023-12-16 08:19:16.144 +00:00 [INF] Executed action Wishlist_Service.Controllers.WishListController.DeleteCity (Wishlist_Service) in 19.278ms
+2023-12-16 08:19:16.144 +00:00 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.DeleteCity (Wishlist_Service)'
+2023-12-16 08:19:16.144 +00:00 [INF] Request finished HTTP/1.1 DELETE https://localhost:7045/api/WishList/city/Satna/user/Dakshi - 0 - 200 - application/json;+charset=utf-8 25.5879ms
+2023-12-16 08:19:18.149 +00:00 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2023-12-16 08:19:18.149 +00:00 [INF] CORS policy execution successful.
+2023-12-16 08:19:18.149 +00:00 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2023-12-16 08:19:18.150 +00:00 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2023-12-16 08:19:18.152 +00:00 [INF] Retrieved city by user ID: Dakshi
+2023-12-16 08:19:18.152 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-16 08:19:18.152 +00:00 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 2.7945ms
+2023-12-16 08:19:18.152 +00:00 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2023-12-16 08:19:18.153 +00:00 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 4.0805ms
+2023-12-16 08:19:18.171 +00:00 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2023-12-16 08:19:18.171 +00:00 [INF] CORS policy execution successful.
+2023-12-16 08:19:18.171 +00:00 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2023-12-16 08:19:18.172 +00:00 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2023-12-16 08:19:18.175 +00:00 [INF] Retrieved city by user ID: Dakshi
+2023-12-16 08:19:18.175 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-16 08:19:18.175 +00:00 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 3.6741ms
+2023-12-16 08:19:18.175 +00:00 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2023-12-16 08:19:18.175 +00:00 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 4.3659ms
+2023-12-16 08:19:20.414 +00:00 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2023-12-16 08:19:20.414 +00:00 [INF] CORS policy execution successful.
+2023-12-16 08:19:20.414 +00:00 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2023-12-16 08:19:20.415 +00:00 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2023-12-16 08:19:20.417 +00:00 [INF] Retrieved city by user ID: Dakshi
+2023-12-16 08:19:20.417 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-16 08:19:20.417 +00:00 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 2.4259ms
+2023-12-16 08:19:20.417 +00:00 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2023-12-16 08:19:20.418 +00:00 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 3.4616ms
+2023-12-16 08:19:25.065 +00:00 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2023-12-16 08:19:25.065 +00:00 [INF] CORS policy execution successful.
+2023-12-16 08:19:25.066 +00:00 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2023-12-16 08:19:25.066 +00:00 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2023-12-16 08:19:25.068 +00:00 [INF] Retrieved city by user ID: Dakshi
+2023-12-16 08:19:25.068 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-16 08:19:25.069 +00:00 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 2.5747ms
+2023-12-16 08:19:25.069 +00:00 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2023-12-16 08:19:25.069 +00:00 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 4.1887ms
+2023-12-16 08:19:35.285 +00:00 [INF] Request starting HTTP/1.1 POST https://localhost:7045/api/WishList/Add application/json 50
+2023-12-16 08:19:35.286 +00:00 [INF] CORS policy execution successful.
+2023-12-16 08:19:35.286 +00:00 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service)'
+2023-12-16 08:19:35.286 +00:00 [INF] Route matched with {action = "AddCityinWishList", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddCityinWishList(Wishlist_Service.Model.Wishlist) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2023-12-16 08:19:35.297 +00:00 [INF] City added to wishlist: Pune
+2023-12-16 08:19:35.297 +00:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2023-12-16 08:19:35.297 +00:00 [INF] Executed action Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service) in 11.009ms
+2023-12-16 08:19:35.297 +00:00 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service)'
+2023-12-16 08:19:35.297 +00:00 [INF] Request finished HTTP/1.1 POST https://localhost:7045/api/WishList/Add application/json 50 - 200 - application/json;+charset=utf-8 11.8882ms
+2023-12-16 08:19:49.298 +00:00 [INF] Request starting HTTP/1.1 POST https://localhost:7045/api/WishList/Add application/json 51
+2023-12-16 08:19:49.299 +00:00 [INF] CORS policy execution successful.
+2023-12-16 08:19:49.299 +00:00 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service)'
+2023-12-16 08:19:49.299 +00:00 [INF] Route matched with {action = "AddCityinWishList", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddCityinWishList(Wishlist_Service.Model.Wishlist) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2023-12-16 08:19:49.315 +00:00 [INF] City added to wishlist: Delhi
+2023-12-16 08:19:49.315 +00:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2023-12-16 08:19:49.315 +00:00 [INF] Executed action Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service) in 16.3229ms
+2023-12-16 08:19:49.315 +00:00 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.AddCityinWishList (Wishlist_Service)'
+2023-12-16 08:19:49.315 +00:00 [INF] Request finished HTTP/1.1 POST https://localhost:7045/api/WishList/Add application/json 51 - 200 - application/json;+charset=utf-8 16.9684ms
+2023-12-16 08:21:23.453 +00:00 [INF] Request starting HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0
+2023-12-16 08:21:23.453 +00:00 [INF] CORS policy execution successful.
+2023-12-16 08:21:23.453 +00:00 [INF] Executing endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2023-12-16 08:21:23.453 +00:00 [INF] Route matched with {action = "GetCitybyUsername", controller = "WishList"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCitybyUsername(System.String) on controller Wishlist_Service.Controllers.WishListController (Wishlist_Service).
+2023-12-16 08:21:23.455 +00:00 [INF] Retrieved city by user ID: Dakshi
+2023-12-16 08:21:23.456 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Wishlist_Service.Model.Wishlist, Wishlist_Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-16 08:21:23.456 +00:00 [INF] Executed action Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service) in 2.6325ms
+2023-12-16 08:21:23.456 +00:00 [INF] Executed endpoint 'Wishlist_Service.Controllers.WishListController.GetCitybyUsername (Wishlist_Service)'
+2023-12-16 08:21:23.456 +00:00 [INF] Request finished HTTP/1.1 GET https://localhost:7045/api/WishList/Dakshi - 0 - 200 - application/json;+charset=utf-8 3.3361ms
+2023-12-16 08:22:00.321 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/configuration - -
+2023-12-16 08:22:00.329 +00:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2023-12-16 08:22:00.334 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-12-16 08:22:00.430 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/configuration - - - 500 - text/plain;+charset=utf-8 109.0533ms
+2023-12-16 08:36:10.665 +00:00 [INF] Now listening on: https://localhost:7045
+2023-12-16 08:36:10.734 +00:00 [INF] Now listening on: http://localhost:5197
+2023-12-16 08:36:10.743 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-16 08:36:10.743 +00:00 [INF] Hosting environment: Development
+2023-12-16 08:36:10.744 +00:00 [INF] Content root path: C:\weather_App\Weather_App\Wishlist_Service\
+2023-12-16 08:36:11.228 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/index.html - -
+2023-12-16 08:36:11.666 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/index.html - - - 200 - text/html;charset=utf-8 444.6680ms
+2023-12-16 08:36:12.898 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_vs/browserLink - -
+2023-12-16 08:36:12.927 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 28.6332ms
+2023-12-16 08:36:12.953 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - -
+2023-12-16 08:36:12.955 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 2.7769ms
+2023-12-16 08:36:14.868 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - -
+2023-12-16 08:36:15.042 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 173.5867ms
+2023-12-16 08:36:35.713 +00:00 [INF] Now listening on: https://localhost:7045
+2023-12-16 08:36:35.762 +00:00 [INF] Now listening on: http://localhost:5197
+2023-12-16 08:36:35.775 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-16 08:36:35.776 +00:00 [INF] Hosting environment: Development
+2023-12-16 08:36:35.776 +00:00 [INF] Content root path: C:\weather_App\Weather_App\Wishlist_Service\
+2023-12-16 08:36:36.992 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/index.html - -
+2023-12-16 08:36:37.332 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/index.html - - - 200 - text/html;charset=utf-8 346.5264ms
+2023-12-16 08:36:37.369 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_vs/browserLink - -
+2023-12-16 08:36:37.373 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - -
+2023-12-16 08:36:37.377 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 4.2046ms
+2023-12-16 08:36:37.396 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 27.0822ms
+2023-12-16 08:36:38.797 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - -
+2023-12-16 08:36:38.946 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 149.5459ms
+2023-12-16 08:40:01.185 +00:00 [INF] Now listening on: https://localhost:7045
+2023-12-16 08:40:01.241 +00:00 [INF] Now listening on: http://localhost:5197
+2023-12-16 08:40:01.253 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-16 08:40:01.254 +00:00 [INF] Hosting environment: Development
+2023-12-16 08:40:01.254 +00:00 [INF] Content root path: C:\weather_App\Weather_App\Wishlist_Service\
+2023-12-16 08:40:02.106 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/index.html - -
+2023-12-16 08:40:02.526 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/index.html - - - 200 - text/html;charset=utf-8 427.7015ms
+2023-12-16 08:40:03.125 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_vs/browserLink - -
+2023-12-16 08:40:03.152 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 26.6160ms
+2023-12-16 08:40:03.162 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - -
+2023-12-16 08:40:03.164 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 2.3001ms
+2023-12-16 08:40:04.041 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - -
+2023-12-16 08:40:04.197 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 156.4881ms
+2023-12-16 08:43:38.280 +00:00 [INF] Now listening on: https://localhost:7045
+2023-12-16 08:43:38.327 +00:00 [INF] Now listening on: http://localhost:5197
+2023-12-16 08:43:38.335 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-16 08:43:38.335 +00:00 [INF] Hosting environment: Development
+2023-12-16 08:43:38.335 +00:00 [INF] Content root path: C:\weather_App\Weather_App\Wishlist_Service\
+2023-12-16 08:43:39.715 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/index.html - -
+2023-12-16 08:43:40.036 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/index.html - - - 200 - text/html;charset=utf-8 327.8617ms
+2023-12-16 08:43:40.148 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_vs/browserLink - -
+2023-12-16 08:43:40.175 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 27.3812ms
+2023-12-16 08:43:40.186 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - -
+2023-12-16 08:43:40.188 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 2.2249ms
+2023-12-16 08:43:41.388 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - -
+2023-12-16 08:43:41.539 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 150.9631ms
+2023-12-16 08:44:46.533 +00:00 [INF] Now listening on: https://localhost:7045
+2023-12-16 08:44:46.580 +00:00 [INF] Now listening on: http://localhost:5197
+2023-12-16 08:44:46.588 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-16 08:44:46.589 +00:00 [INF] Hosting environment: Development
+2023-12-16 08:44:46.589 +00:00 [INF] Content root path: C:\weather_App\Weather_App\Wishlist_Service\
+2023-12-16 08:44:47.078 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/index.html - -
+2023-12-16 08:44:47.452 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/index.html - - - 200 - text/html;charset=utf-8 380.6801ms
+2023-12-16 08:44:48.062 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_vs/browserLink - -
+2023-12-16 08:44:48.090 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 28.0605ms
+2023-12-16 08:44:48.142 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - -
+2023-12-16 08:44:48.144 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 2.6195ms
+2023-12-16 08:44:49.685 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - -
+2023-12-16 08:44:49.833 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 147.9150ms
+2023-12-16 08:46:49.164 +00:00 [INF] Now listening on: https://localhost:7045
+2023-12-16 08:46:49.213 +00:00 [INF] Now listening on: http://localhost:5197
+2023-12-16 08:46:49.220 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-16 08:46:49.221 +00:00 [INF] Hosting environment: Development
+2023-12-16 08:46:49.221 +00:00 [INF] Content root path: C:\weather_App\Weather_App\Wishlist_Service\
+2023-12-16 08:46:49.423 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/index.html - -
+2023-12-16 08:46:49.882 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/index.html - - - 200 - text/html;charset=utf-8 465.2570ms
+2023-12-16 08:46:50.807 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_vs/browserLink - -
+2023-12-16 08:46:50.834 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 26.4189ms
+2023-12-16 08:46:50.838 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - -
+2023-12-16 08:46:50.840 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 2.1314ms
+2023-12-16 08:46:52.114 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - -
+2023-12-16 08:46:52.274 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 160.2713ms
+2023-12-16 08:47:47.931 +00:00 [INF] Now listening on: https://localhost:7045
+2023-12-16 08:47:47.980 +00:00 [INF] Now listening on: http://localhost:5197
+2023-12-16 08:47:47.988 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-16 08:47:47.988 +00:00 [INF] Hosting environment: Development
+2023-12-16 08:47:47.988 +00:00 [INF] Content root path: C:\weather_App\Weather_App\Wishlist_Service\
+2023-12-16 08:47:49.144 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/index.html - -
+2023-12-16 08:47:49.487 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/index.html - - - 200 - text/html;charset=utf-8 350.1905ms
+2023-12-16 08:47:49.541 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_vs/browserLink - -
+2023-12-16 08:47:49.570 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 29.5429ms
+2023-12-16 08:47:49.632 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - -
+2023-12-16 08:47:49.635 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 2.3598ms
+2023-12-16 08:47:50.844 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - -
+2023-12-16 08:47:51.000 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 156.4882ms
+2023-12-16 08:49:41.788 +00:00 [INF] Now listening on: https://localhost:7045
+2023-12-16 08:49:41.833 +00:00 [INF] Now listening on: http://localhost:5197
+2023-12-16 08:49:41.840 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-16 08:49:41.841 +00:00 [INF] Hosting environment: Development
+2023-12-16 08:49:41.841 +00:00 [INF] Content root path: C:\weather_App\Weather_App\Wishlist_Service\
+2023-12-16 08:49:43.331 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/index.html - -
+2023-12-16 08:49:43.661 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/index.html - - - 200 - text/html;charset=utf-8 336.9321ms
+2023-12-16 08:49:44.066 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_vs/browserLink - -
+2023-12-16 08:49:44.097 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 30.1246ms
+2023-12-16 08:49:44.107 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - -
+2023-12-16 08:49:44.109 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 2.2642ms
+2023-12-16 08:49:45.029 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - -
+2023-12-16 08:49:45.188 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 159.0665ms
+2023-12-16 08:53:07.855 +00:00 [INF] Now listening on: https://localhost:7045
+2023-12-16 08:53:07.901 +00:00 [INF] Now listening on: http://localhost:5197
+2023-12-16 08:53:07.909 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-16 08:53:07.910 +00:00 [INF] Hosting environment: Development
+2023-12-16 08:53:07.910 +00:00 [INF] Content root path: C:\weather_App\Weather_App\Wishlist_Service\
+2023-12-16 08:53:08.449 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/index.html - -
+2023-12-16 08:53:08.766 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/index.html - - - 200 - text/html;charset=utf-8 323.6252ms
+2023-12-16 08:53:08.781 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - -
+2023-12-16 08:53:08.781 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_vs/browserLink - -
+2023-12-16 08:53:08.785 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 4.5164ms
+2023-12-16 08:53:08.813 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 32.1698ms
+2023-12-16 08:53:09.782 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - -
+2023-12-16 08:53:10.125 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 343.4289ms
+2023-12-16 08:56:33.905 +00:00 [INF] Now listening on: https://localhost:7045
+2023-12-16 08:56:33.951 +00:00 [INF] Now listening on: http://localhost:5197
+2023-12-16 08:56:33.958 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-16 08:56:33.959 +00:00 [INF] Hosting environment: Development
+2023-12-16 08:56:33.959 +00:00 [INF] Content root path: C:\weather_App\Weather_App\Wishlist_Service\
+2023-12-16 08:56:35.627 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/index.html - -
+2023-12-16 08:56:35.957 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/index.html - - - 200 - text/html;charset=utf-8 336.5023ms
+2023-12-16 08:56:36.472 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - -
+2023-12-16 08:56:36.472 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_vs/browserLink - -
+2023-12-16 08:56:36.476 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 4.1497ms
+2023-12-16 08:56:36.497 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 25.4360ms
+2023-12-16 08:56:37.452 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - -
+2023-12-16 08:56:37.613 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 160.9572ms
+2023-12-16 08:58:16.162 +00:00 [INF] Now listening on: https://localhost:7045
+2023-12-16 08:58:16.208 +00:00 [INF] Now listening on: http://localhost:5197
+2023-12-16 08:58:16.216 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-16 08:58:16.216 +00:00 [INF] Hosting environment: Development
+2023-12-16 08:58:16.216 +00:00 [INF] Content root path: C:\weather_App\Weather_App\Wishlist_Service\
+2023-12-16 08:58:17.075 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/index.html - -
+2023-12-16 08:58:17.432 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/index.html - - - 200 - text/html;charset=utf-8 363.6148ms
+2023-12-16 08:58:17.866 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - -
+2023-12-16 08:58:17.866 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_vs/browserLink - -
+2023-12-16 08:58:17.870 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 3.5249ms
+2023-12-16 08:58:17.890 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 23.8710ms
+2023-12-16 08:58:18.679 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - -
+2023-12-16 08:58:18.838 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 158.9555ms
+2023-12-16 08:59:06.801 +00:00 [INF] Now listening on: https://localhost:7045
+2023-12-16 08:59:06.851 +00:00 [INF] Now listening on: http://localhost:5197
+2023-12-16 08:59:06.859 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-16 08:59:06.859 +00:00 [INF] Hosting environment: Development
+2023-12-16 08:59:06.860 +00:00 [INF] Content root path: C:\weather_App\Weather_App\Wishlist_Service\
+2023-12-16 08:59:07.207 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/index.html - -
+2023-12-16 08:59:07.623 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/index.html - - - 200 - text/html;charset=utf-8 422.6393ms
+2023-12-16 08:59:08.876 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - -
+2023-12-16 08:59:08.876 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_vs/browserLink - -
+2023-12-16 08:59:08.881 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 4.7326ms
+2023-12-16 08:59:08.901 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 25.6492ms
+2023-12-16 08:59:09.707 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - -
+2023-12-16 08:59:09.861 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 153.7199ms
+2023-12-16 09:00:50.943 +00:00 [INF] Now listening on: https://localhost:7045
+2023-12-16 09:00:50.992 +00:00 [INF] Now listening on: http://localhost:5197
+2023-12-16 09:00:51.000 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-16 09:00:51.002 +00:00 [INF] Hosting environment: Development
+2023-12-16 09:00:51.002 +00:00 [INF] Content root path: C:\weather_App\Weather_App\Wishlist_Service\
+2023-12-16 09:00:52.002 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/index.html - -
+2023-12-16 09:00:52.509 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/index.html - - - 200 - text/html;charset=utf-8 513.4932ms
+2023-12-16 09:00:54.089 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_vs/browserLink - -
+2023-12-16 09:00:54.124 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 34.7920ms
+2023-12-16 09:00:54.189 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - -
+2023-12-16 09:00:54.192 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 2.4516ms
+2023-12-16 09:00:55.090 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - -
+2023-12-16 09:00:55.252 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 161.8103ms
+2023-12-16 09:10:16.129 +00:00 [INF] Now listening on: https://localhost:7045
+2023-12-16 09:10:16.177 +00:00 [INF] Now listening on: http://localhost:5197
+2023-12-16 09:10:16.185 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-16 09:10:16.186 +00:00 [INF] Hosting environment: Development
+2023-12-16 09:10:16.187 +00:00 [INF] Content root path: C:\weather_App\Weather_App\Wishlist_Service\
+2023-12-16 09:10:16.588 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/index.html - -
+2023-12-16 09:10:16.952 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/index.html - - - 200 - text/html;charset=utf-8 370.7834ms
+2023-12-16 09:10:17.215 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_vs/browserLink - -
+2023-12-16 09:10:17.243 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 27.8539ms
+2023-12-16 09:10:17.251 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - -
+2023-12-16 09:10:17.254 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 2.4983ms
+2023-12-16 09:10:18.422 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - -
+2023-12-16 09:10:18.585 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 162.2610ms
+2023-12-16 09:14:03.338 +00:00 [INF] Now listening on: https://localhost:7045
+2023-12-16 09:14:03.394 +00:00 [INF] Now listening on: http://localhost:5197
+2023-12-16 09:14:03.402 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-16 09:14:03.403 +00:00 [INF] Hosting environment: Development
+2023-12-16 09:14:03.403 +00:00 [INF] Content root path: C:\weather_App\Weather_App\Wishlist_Service\
+2023-12-16 09:14:04.916 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/index.html - -
+2023-12-16 09:14:05.259 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/index.html - - - 200 - text/html;charset=utf-8 348.9614ms
+2023-12-16 09:14:05.482 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_vs/browserLink - -
+2023-12-16 09:14:05.512 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 30.5193ms
+2023-12-16 09:14:05.532 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - -
+2023-12-16 09:14:05.540 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 7.6655ms
+2023-12-16 09:14:06.521 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - -
+2023-12-16 09:14:06.674 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7045/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 152.5000ms

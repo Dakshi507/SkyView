@@ -1,0 +1,136 @@
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\appsettings.json
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\ocelot.json
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\Api_gateway.exe
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\Api_gateway.deps.json
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\Api_gateway.runtimeconfig.json
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\Api_gateway.dll
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\Api_gateway.pdb
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\IPAddressRange.dll
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\Ocelot.dll
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Weather_App1\Weather_App\Api_gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.csproj.AssemblyReference.cache
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.AssemblyInfoInputs.cache
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.AssemblyInfo.cs
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.csproj.CoreCompileInputs.cache
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets\msbuild.Api_gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets\msbuild.build.Api_gateway.props
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api_gateway.props
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api_gateway.props
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\scopedcss\bundle\Api_gateway.styles.css
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.csproj.CopyComplete
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.dll
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\refint\Api_gateway.dll
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.pdb
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.genruntimeconfig.cache
+C:\Weather_App1\Weather_App\Api_gateway\obj\Debug\net6.0\ref\Api_gateway.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\appsettings.Development.json
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\appsettings.json
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\ocelot.json
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Api_gateway.exe
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Api_gateway.deps.json
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Api_gateway.runtimeconfig.json
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Api_gateway.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Api_gateway.pdb
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Consul.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\FluentValidation.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\IPAddressRange.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Ocelot.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Ocelot.Provider.Consul.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Common.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Common.pdb
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.csproj.AssemblyReference.cache
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.AssemblyInfoInputs.cache
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.AssemblyInfo.cs
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.csproj.CoreCompileInputs.cache
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets\msbuild.Api_gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets\msbuild.build.Api_gateway.props
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api_gateway.props
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api_gateway.props
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\scopedcss\bundle\Api_gateway.styles.css
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.csproj.CopyComplete
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.dll
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\refint\Api_gateway.dll
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.pdb
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.genruntimeconfig.cache
+C:\weather_App\Weather_App\Api_gateway\obj\Debug\net6.0\ref\Api_gateway.dll
+C:\weather_App\Weather_App\Api_gateway\bin\Debug\net6.0\Ocelot1.json
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\appsettings.Development.json
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\appsettings.json
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\ocelot.json
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Ocelot1.json
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Api_gateway.exe
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Api_gateway.deps.json
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Api_gateway.runtimeconfig.json
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Api_gateway.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Api_gateway.pdb
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Consul.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\FluentValidation.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\IPAddressRange.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Ocelot.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Ocelot.Provider.Consul.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Common.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\bin\Debug\net6.0\Common.pdb
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.csproj.AssemblyReference.cache
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.AssemblyInfoInputs.cache
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.AssemblyInfo.cs
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.csproj.CoreCompileInputs.cache
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.MvcApplicationPartsAssemblyInfo.cs
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.MvcApplicationPartsAssemblyInfo.cache
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets.build.json
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets.development.json
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets\msbuild.Api_gateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets\msbuild.build.Api_gateway.props
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api_gateway.props
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api_gateway.props
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\staticwebassets.pack.json
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\scopedcss\bundle\Api_gateway.styles.css
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.csproj.CopyComplete
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\refint\Api_gateway.dll
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.pdb
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\Api_gateway.genruntimeconfig.cache
+E:\cts_ training\Backup\20dec2023withoutazurefinal\Weather_App BEAPI\Weather_App\Api_gateway\obj\Debug\net6.0\ref\Api_gateway.dll

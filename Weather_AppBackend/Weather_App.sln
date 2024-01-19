@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Authentication_Service", "Authentication_Service\Authentication_Service.csproj", "{133E53D5-5E7C-4161-8868-440F2C9ECF4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api_gateway", "Api_gateway\Api_gateway.csproj", "{0D4A1837-54C3-4D85-B60C-36FC1218A048}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User_Service", "User_Service\User_Service.csproj", "{746B2E99-4265-4EE7-8BB6-1992E166B8B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weather_Service", "Weather_Service\Weather_Service.csproj", "{6404BC1E-9621-4AC3-B0FE-49FCD3A08D5F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wishlist_Service", "Wishlist_Service\Wishlist_Service.csproj", "{870CA4E3-007F-4797-A44C-7962F27F4EFA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test_weatherApp", "Test_weatherApp\Test_weatherApp.csproj", "{C59718AA-3422-4821-BAD4-6D97A97CEA64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{B4027F0C-121A-4A84-8CAD-E8DBDCBEB188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{133E53D5-5E7C-4161-8868-440F2C9ECF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133E53D5-5E7C-4161-8868-440F2C9ECF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{133E53D5-5E7C-4161-8868-440F2C9ECF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{133E53D5-5E7C-4161-8868-440F2C9ECF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D4A1837-54C3-4D85-B60C-36FC1218A048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4A1837-54C3-4D85-B60C-36FC1218A048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4A1837-54C3-4D85-B60C-36FC1218A048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4A1837-54C3-4D85-B60C-36FC1218A048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746B2E99-4265-4EE7-8BB6-1992E166B8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746B2E99-4265-4EE7-8BB6-1992E166B8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746B2E99-4265-4EE7-8BB6-1992E166B8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746B2E99-4265-4EE7-8BB6-1992E166B8B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6404BC1E-9621-4AC3-B0FE-49FCD3A08D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6404BC1E-9621-4AC3-B0FE-49FCD3A08D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6404BC1E-9621-4AC3-B0FE-49FCD3A08D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6404BC1E-9621-4AC3-B0FE-49FCD3A08D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{870CA4E3-007F-4797-A44C-7962F27F4EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870CA4E3-007F-4797-A44C-7962F27F4EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870CA4E3-007F-4797-A44C-7962F27F4EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870CA4E3-007F-4797-A44C-7962F27F4EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C59718AA-3422-4821-BAD4-6D97A97CEA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59718AA-3422-4821-BAD4-6D97A97CEA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59718AA-3422-4821-BAD4-6D97A97CEA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59718AA-3422-4821-BAD4-6D97A97CEA64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4027F0C-121A-4A84-8CAD-E8DBDCBEB188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4027F0C-121A-4A84-8CAD-E8DBDCBEB188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4027F0C-121A-4A84-8CAD-E8DBDCBEB188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4027F0C-121A-4A84-8CAD-E8DBDCBEB188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2ECC546-884D-4492-BD5A-FC4DA0737A34}
+	EndGlobalSection
+EndGlobal

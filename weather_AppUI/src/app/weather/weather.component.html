@@ -1,0 +1,50 @@
+
+<app-header></app-header>
+
+<div class="weather-container">
+    <main class="main-content">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <div *ngIf="!weatherData" class="text-center">
+                        <p *ngIf="!cityName" class="info-message">Please enter a city name to view the weather.</p>
+                        <p *ngIf="cityName && !loading" class="info-message">No weather data available for '{{ cityName }}'</p>
+                        <p *ngIf="loading" class="info-message">Loading...</p>
+                        <div *ngIf="errorMessage" class="text-danger">{{ errorMessage }}</div>
+                    </div>
+                    <div class="weather-info" *ngIf="weatherData && weatherData.cod !== '404'">
+                        <h2 class="city-name">{{ weatherData?.name }}, {{ weatherData?.sys?.country }}</h2>
+                        <p class="location-info">Longitude: {{ weatherData?.coord?.lon }}, Latitude: {{ weatherData?.coord?.lat }}</p>
+                        <p class="location-info">Weather: {{ weatherData?.weather[0]?.main }}</p>
+                        <div class="info">
+                            <i class="fas fa-sun"></i> Sunrise: {{ weatherData?.sys?.sunrise | date: 'shortTime' }},
+                            Sunset: {{ weatherData?.sys?.sunset | date: 'shortTime' }}
+                        </div>
+                        <div class="info">
+                            <i class="fas fa-temperature-high"></i> High: {{ weatherData?.main?.temp_max }}°C,
+                            Low: {{ weatherData?.main?.temp_min }}°C
+                        </div>
+                        <div class="info">
+                            Main Temperature: {{ weatherData?.main?.temp }}°C
+                        </div>
+                        <div class="info">
+                            <i class="fas fa-wind"></i> Wind Speed: {{ weatherData?.wind?.speed }},
+                            Direction: {{ weatherData?.wind?.deg }}
+                        </div>
+                        <div class="info">
+                            <i class="fas fa-smog"></i> Pressure: {{ weatherData?.main?.pressure }},
+                            Humidity: {{ weatherData?.main?.humidity }},
+                            Visibility: {{ weatherData?.visibility}}
+                        </div>
+                        <p class="additional-info">Additional weather information goes here...</p>
+                        <button *ngIf="!checkCityExists(cityName)" class="btn btn-primary btn-add-wishlist" (click)="addToWishlist()">Add to Wishlist&nbsp;<i class="fas fa-heart"></i> </button> 
+                        <button *ngIf="checkCityExists(cityName)" class="btn btn-success btn-add-wishlist " (click)="goToWishlist()">Go to Wishlist&nbsp;<i class="fas fa-heart"></i></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+</div>
+
+<app-footer></app-footer>
