@@ -1,4 +1,5 @@
-﻿using Consul;
+﻿//For service discovery using consul
+using Consul;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;

@@ -1,76 +1,46 @@
+//Servicedicovery using consul
 {
     "Routes": [
         {
             "DownstreamPathTemplate": "/api/Auth/login",
             "DownstreamScheme": "https",
-            "DownstreamHostAndPorts": [
-                {
-                    "Host": "localhost",
-                    "Port": 7170
-                }
-            ],
+            "ServiceName": "Authentication_Service",
             "UpstreamPathTemplate": "/gateway/Auth/login",
             "UpstreamHttpMethod": [ "POST" ]
         }, //Authentcation_service
         {
             "DownstreamPathTemplate": "/api/User/create",
             "DownstreamScheme": "https",
-            
-            "DownstreamHostAndPorts": [
-                {
-                    "Host": "localhost",
-                    "Port": 7070
-                }
-            ],
+            "ServiceName": "User_Service", 
+           
             "UpstreamPathTemplate": "/gateway/User/create",
             "UpstreamHttpMethod": [ "POST" ]
-        }, //User_service
+        }, //user service
         {
             "DownstreamPathTemplate": "/api/User",
             "DownstreamScheme": "https",
-            
-            "DownstreamHostAndPorts": [
-               {
-                    "Host": "localhost",
-                    "Port": 7070
-                }
-            ],
+            "ServiceName": "User_Service",
             "UpstreamPathTemplate": "/gateway/User",
             "UpstreamHttpMethod": [ "GET" ]
         }, //User_Service
         {
             "DownstreamPathTemplate": "/api/Weather/{cityName}",
             "DownstreamScheme": "https",
-            "DownstreamHostAndPorts": [
-                {
-                    "Host": "localhost",
-                    "Port": 7251
-                }
-            ],
+            "ServiceName": "Weather_Service",
             "UpstreamPathTemplate": "/gateway/Weather/{cityName}",
             "UpstreamHttpMethod": [ "GET" ]
         }, //Weather service
         {
             "DownstreamPathTemplate": "/api/WishList/Add",
             "DownstreamScheme": "https",
-            "DownstreamHostAndPorts": [
-                {
-                    "Host": "localhost",
-                    "Port": 7045
-                }
-            ],
+            "ServiceName": "Wishlist_Service",
             "UpstreamPathTemplate": "/gateway/WishList/Add",
             "UpstreamHttpMethod": [ "POST" ]
         }, //WishList service
         {
             "DownstreamPathTemplate": "/api/WishList",
             "DownstreamScheme": "https",
-            "DownstreamHostAndPorts": [
-                {
-                    "Host": "localhost",
-                    "Port": 7045
-                }
-            ],
+            "ServiceName": "Wishlist_Service",
             "UpstreamPathTemplate": "/gateway/WishList",
             "UpstreamHttpMethod": [ "GET" ]
         }, //WishList service
@@ -89,27 +59,26 @@
         {
             "DownstreamPathTemplate": "/api/WishList/{username}",
             "DownstreamScheme": "https",
-            "DownstreamHostAndPorts": [
-                {
-                    "Host": "localhost",
-                    "Port": 7045
-                }
-            ],
+            "ServiceName": "Wishlist_Service",
             "UpstreamPathTemplate": "/gateway/WishList/{username}",
             "UpstreamHttpMethod": [ "GET" ]
         }, //WishList service
         {
             "DownstreamPathTemplate": "/api/WishList/city/{cityName}/user/{username}",
             "DownstreamScheme": "https",
-            "DownstreamHostAndPorts": [
-                {
-                    "Host": "localhost",
-                    "Port": 7045
-                }
-            ],
+            "ServiceName": "Wishlist_Service",
             "UpstreamPathTemplate": "/gateway/WishList/city/{cityName}/user/{username}",
             "UpstreamHttpMethod": [ "DELETE" ]
         } //WishList service
-    ]
 
+    ],
+
+
+    "GlobalConfiguration": {
+        "ServiceDiscoveryProvider": {
+            "Type": "Consul",
+            "Host": "localhost",
+            "Port": 8500
+        }
+    }
 }

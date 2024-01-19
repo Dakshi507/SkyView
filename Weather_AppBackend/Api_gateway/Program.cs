@@ -10,7 +10,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 
 builder.Configuration.SetBasePath(builder.Environment.ContentRootPath)
-    .AddJsonFile("Ocelot1.json", optional: false, reloadOnChange: true);
+    .AddJsonFile("ocelot.json", optional: false, reloadOnChange: true);
 
 
 builder.Services.AddEndpointsApiExplorer();
